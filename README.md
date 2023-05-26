@@ -1,7 +1,14 @@
 ### Hi there 👋
+My name is Marco Maschauer. I'm a Linux Systemadministrator located in Germany. In my free time I like to work on all kinds of projects which you can see on my GitHub. 
 
+- 🔭 I’m currently working on these projects: 
+  - [Stardew-Valley-Community-Center-Checklist](https://github.com/marcomaschauer/Stardew-Valley-Community-Center-Checklist) 
+  - [Recipes-Website](https://github.com/marcomaschauer/Recipes-Website)
+  - [Arch-AUR-Helper](https://github.com/marcomaschauer/Arch-AUR-Helper)
+- 🌱 I’m currently learning mostly Python an Linux
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love Pixel Art as you can see on my profile picture and I'm a really good cook
 <!--
-**marcomaschauer/marcomaschauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
