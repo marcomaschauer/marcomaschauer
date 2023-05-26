@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=marcomaschauer&show_icons=true&theme=radical)](https://github.com/marcomaschauer)
-
 My name is Marco Maschauer. I'm a Linux System Administrator located in Germany. In my free time, I like to work on all kinds of projects, which you can see on my GitHub page.
 
 - 🔭 I’m currently working on these projects: 
@@ -13,4 +11,5 @@ My name is Marco Maschauer. I'm a Linux System Administrator located in Germany.
 - ⚡ Fun fact: I'm a really good cook
 - I use Arch btw.
 
+[![](https://github-readme-stats.vercel.app/api?username=marcomaschauer&show_icons=true&theme=radical)](https://github.com/marcomaschauer)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcomaschauer&theme=radical)](https://github.com/marcomaschauer)
