@@ -5,8 +5,7 @@ My name is Marco Maschauer. I'm a Linux System Administrator located in Germany.
   - [Stardew-Valley-Community-Center-Checklist](https://github.com/marcomaschauer/Stardew-Valley-Community-Center-Checklist) 
   - [Recipes-Website](https://github.com/marcomaschauer/Recipes-Website)
   - [Arch-AUR-Helper](https://github.com/marcomaschauer/Arch-AUR-Helper)
-- 🌱 I’m currently learning mostly Python and Go
-- 📫 How to reach me: Just add me on Discord: MarcToTheO#6551
+  - [Dropbox-Downloader](https://github.com/marcomaschauer/Dropbox-Downloader)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a really good cook
 - I use Arch btw.
