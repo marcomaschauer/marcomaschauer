@@ -4,7 +4,7 @@ My name is Marco Maschauer. I'm a Linux System Administrator located in Germany.
 - 🔭 I’m currently working on these projects: 
   - [Stardew-Valley-Community-Center-Checklist](https://github.com/marcomaschauer/Stardew-Valley-Community-Center-Checklist) 
   - [Recipes-Website](https://github.com/marcomaschauer/Recipes-Website)
-  - [Arch-AUR-Helper](https://github.com/marcomaschauer/Arch-AUR-Helper)
+  - [AUR-Helper](https://github.com/marcomaschauer/AUR-Helper)
   - [Dropbox-Downloader](https://github.com/marcomaschauer/Dropbox-Downloader)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a really good cook
